@@ -1,5 +1,10 @@
 # Cancer Treatment Analysis
 
-Analysis of cancer treatments in mice done in Jupyter Notebook. Statistical measures use Scipy.stats and figures use Pandas and Matplotlib.
+## General Info
 
-Done for Homework #5 for Data Science Bootcamp.
+Analysis of the effectiveness of potential cancer treatments in mice.  Done for Week 5 homework for the Northwestern Data Science and Visualization Bootcamp.
+
+## Technologies
+
+* Analysis: Pandas via Jupyter Notebook and Scipy.stats
+* Visualizations: Matplotlib
