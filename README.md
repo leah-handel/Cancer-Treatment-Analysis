@@ -8,3 +8,7 @@ Analysis of the effectiveness of potential cancer treatments in mice.  Done for 
 
 * Analysis: Pandas via Jupyter Notebook and Scipy.stats
 * Visualizations: Matplotlib
+
+## To Run
+
+Open treatments.ipynb in jupyter notebook
